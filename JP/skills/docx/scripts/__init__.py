@@ -1,0 +1,1 @@
+# tests内の相対importのため、scriptsディレクトリをパッケージ化します
